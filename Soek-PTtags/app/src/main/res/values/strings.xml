@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soek-PTtags</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_vehicle_info">VehicleInfoActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="driver_name">John Doe Pickachu</string>
+    <string name="optr_contact">+63 926 943 XXXX</string>
+    <string name="ltfrb_case_number">123456</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soek-GeoShoppers</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Page %1$d</string>
+    <string name="header_1">Access to Information</string>
+    <string name="header_2">Promo and Discount</string>
+    <string name="header_3">Easy Payment</string>
+    <string name="string_1">Soek GeoShoppers is an app that let you access the information on a vast array of products. An instant access to the product including availability of colors, sizes and its price.</string>
+    <string name="string_2">"Get the latest promo and discount for our product instantly."
+                            "Give your self a favor by visiting us often to earn points and claim rewards."</string>
+    <string name="string_3">No cash on hand? No problem we got your back. You can pay via e-money using our electronic bank partners. A sweat-free purchase is what were after.</string>
+</resources>

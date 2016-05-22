@@ -1,0 +1,28 @@
+{
+  "minor": [
+    {
+      "id": 2,
+      "image": "shoes.png",
+      "name": "shoes",
+      "price": 1780,
+      "quantity": 52,
+      "desc": "nike"
+    },
+    {
+      "id": 3,
+      "image": "shirts.png",
+      "name": "Shirts",
+      "price": 399,
+      "quantity": 24,
+      "desc": "Lorem Ipsum Shirts"
+    },
+    {
+      "id": 4,
+      "image": "bags.png",
+      "name": "Bags",
+      "price": 899,
+      "quantity": 9,
+      "desc": "Lorem Ipsum Bags"
+    }
+  ]
+}
